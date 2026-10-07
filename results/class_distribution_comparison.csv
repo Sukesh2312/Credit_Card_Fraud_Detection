@@ -1,0 +1,3 @@
+Dataset,Total Transactions,Legitimate Transactions,Fraud Transactions,Legitimate %,Fraud %
+2013,284807,284315,492,99.82725143693798,0.1727485630620034
+2023,568630,284315,284315,50.0,50.0
